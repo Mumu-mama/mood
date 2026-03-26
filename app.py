@@ -10,4 +10,4 @@ if st.button("点击我揣测璐璐心思"):
     if mood_index >= 60:
         st.success("王者之神降临，今晚周雯璐带领你打游戏！")
     else:
-        st.info("nono 可恶是连跪的气息，为了小命还是不打了0(ㄒoㄒ)0~~")
+        st.info("nono 可恶是连跪的气息，为了小命还是不打了\n0(ㄒoㄒ)0~~")
